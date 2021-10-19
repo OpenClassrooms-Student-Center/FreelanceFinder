@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_city"
+        android:title="Sort by city"
+        app:showAsAction="never" />
+    <item android:id="@+id/sort_tjm"
+        android:title="Sort by TJM"
+        app:showAsAction="never"/>
+    <item android:id="@+id/reset_sort"
+        android:title="Reset sort"
+        app:showAsAction="never"/>
+</menu>

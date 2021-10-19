@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127984461013",
+    "project_id": "freelance-android",
+    "storage_bucket": "freelance-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127984461013:android:8d010230efdf69af1b6e5c",
+        "android_client_info": {
+          "package_name": "com.kirabium.freelancefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127984461013-5bfn3t2pa95bshe0gmjit0088n4nctqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirabium.freelancefinder",
+            "certificate_hash": "8656d80941a6c1ac636d924e162fb3fb335d6fc8"
+          }
+        },
+        {
+          "client_id": "127984461013-h8lhdc584umka9dfirnt2nau96emncoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirabium.freelancefinder",
+            "certificate_hash": "3fc3c3c54d84f311b6dbe1d11edcb21c2b94da9a"
+          }
+        },
+        {
+          "client_id": "127984461013-esgodb01jgo00b6nr3uglc1mnfam1ng4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfhZIgEuyu_CvcuiwhNxkmU0WV38WE1uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127984461013-esgodb01jgo00b6nr3uglc1mnfam1ng4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
